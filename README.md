@@ -1,6 +1,6 @@
 # PhotoBookingCalender
 
 Application Stack:
-React
-Node.js
-MongoDB
+  React
+  Node.js
+  MongoDB
