@@ -56,7 +56,7 @@ export default function UpdateProfile() {
                         </Form.Group>
                         <Form.Group id="password-confirm">
                             <Form.Label>Password Confirmation</Form.Label>
-                            <Form.Control type="password" ref={passwordConfirmRef} placeholder="Leave blank to keep the same" />
+                            <Form.Control type="password" ref={passwordConfirmRef} placeholder="Leave blank to keep the same"gi />
                         </Form.Group>
                         <Button type="submit" disabled={loading} className="w-100">Update</Button>
                     </Form>
